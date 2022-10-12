@@ -1,0 +1,6 @@
+
+*.DS_Store
+*.prefs
+*.classpath
+*.project
+workspace/**/.gitignore
